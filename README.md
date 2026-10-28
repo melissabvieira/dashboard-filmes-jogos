@@ -1,6 +1,6 @@
 # Dashboard: filmes baseados em jogos de videogame
 
-Dashboard em HTML que responde a 7 perguntas sobre adaptações de jogos para o cinema. Atividade de Visualização de Dados, [seu nome], [curso/semestre].
+Dashboard em HTML que responde a 7 perguntas sobre adaptações de jogos para o cinema. Atividade de Visualização de Dados.
 
 **Como abrir:** baixe `dashboard_filmes_jogos.html` e abra no navegador. Não precisa instalar nada, e funciona sem internet.
 
